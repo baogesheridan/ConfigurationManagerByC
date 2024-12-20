@@ -1,0 +1,31 @@
+[{
+		"key":	"key_int",
+		"type":	"INT",
+		"value":	42,
+		"arraySize":	0
+	}, {
+		"key":	"key_float",
+		"type":	"FLOAT",
+		"value":	3.1400001049041748,
+		"arraySize":	0
+	}, {
+		"key":	"key_string",
+		"type":	"STRING",
+		"value":	"Hello, World!",
+		"arraySize":	0
+	}, {
+		"key":	"key_int_array",
+		"type":	"INT_ARRAY",
+		"value":	[1, 2, 3, 4, 5],
+		"arraySize":	5
+	}, {
+		"key":	"key_float_array",
+		"type":	"FLOAT_ARRAY",
+		"value":	[1.1000000238418579, 2.2000000476837158, 3.2999999523162842],
+		"arraySize":	3
+	}, {
+		"key":	"key_string_array",
+		"type":	"STRING_ARRAY",
+		"value":	["apple", "banana", "cherry"],
+		"arraySize":	3
+	}]
